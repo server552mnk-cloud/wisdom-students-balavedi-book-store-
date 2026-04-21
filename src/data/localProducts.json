@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b1",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 399,
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=600&auto=format&fit=crop",
+    "description": "A novel about the American dream and the roaring twenties."
+  },
+  {
+    "id": "b2",
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 450,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=600&auto=format&fit=crop",
+    "description": "A dystopian social science fiction novel and cautionary tale."
+  },
+  {
+    "id": "b3",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 350,
+    "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?q=80&w=600&auto=format&fit=crop",
+    "description": "A novel about the serious issues of rape and racial inequality."
+  },
+  {
+    "id": "b4",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=600&auto=format&fit=crop",
+    "description": "A romantic novel of manners written by Jane Austen."
+  },
+  {
+    "id": "p_1776662045347",
+    "title": "ABOOBAKAR RA",
+    "price": 80,
+    "description": "HISTORY OF ABOOBAKAR RA ",
+    "image": "https://drive.google.com/file/d/1wR3aVvTYkqHqQKrnuFNRjHiOr13r0uj-/view?usp=sharing"
+  }
+]
