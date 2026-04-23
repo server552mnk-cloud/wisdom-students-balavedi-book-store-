@@ -29,8 +29,8 @@ async function getProducts(): Promise<Book[]> {
       
       const gDriveMatch = url.match(/\/file\/d\/([a-zA-Z0-9_-]+)\//);
       if (gDriveMatch && gDriveMatch[1]) {
-        // The lh3.googleusercontent.com endpoint is much more reliable for <img> tags
-        return `https://lh3.googleusercontent.com/d/${gDriveMatch[1]}`;
+        // Proxy through our own Next.js API to completely bypass Google Drive's strict browser blocks
+        return `/api/image-proxy?id=${gDriveMatch[1]}`;
       }
       return url;
     };
